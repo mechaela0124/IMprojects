@@ -1,0 +1,7 @@
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\bin\Debug\prob1prime.exe.config
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\bin\Debug\prob1prime.exe
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\bin\Debug\prob1prime.pdb
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\obj\Debug\prob1prime.csproj.AssemblyReference.cache
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\obj\Debug\prob1prime.csproj.CoreCompileInputs.cache
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\obj\Debug\prob1prime.exe
+C:\Users\Mechaela\source\repos\prob1prime\prob1prime\obj\Debug\prob1prime.pdb
