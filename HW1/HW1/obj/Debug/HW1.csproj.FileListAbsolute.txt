@@ -1,0 +1,6 @@
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\Mechaela\source\repos\SW1\HW1\HW1\obj\Debug\HW1.pdb
